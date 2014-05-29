@@ -1,0 +1,7 @@
+**/project
+**/target
+*.swp
+**/lib_managed
+**/.classpath
+**/.project
+**/.settings
